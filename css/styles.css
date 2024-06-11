@@ -1,6 +1,19 @@
-h1{
-    color: red;
+*{
+    background-color: aquamarine;
 }
-h6{
-    color: blue;
+
+.heading1{
+    text-align: center;
+    font-style: italic;
+    text-emphasis-color: red;
+}
+.subheading{
+    text-align: center;
+}
+
+.welcome1{
+    text-align: center;
+}
+img{
+    justify-content: center;
 }
